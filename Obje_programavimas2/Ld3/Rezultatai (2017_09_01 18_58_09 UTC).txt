@@ -1,0 +1,115 @@
+Atvirkštinis žaidėjų sąrašas
+---------------------------------------------------------------------------------------------------------
+  Komanda            Vardas      Pavardė       Gimimo metai     Ūgis(cm)    Pozicija    Taškai    Klaidos
+---------------------------------------------------------------------------------------------------------
+Žalgiris             Edgaras     Ulanovas         1992               198 gynėjas         17    2
+Žalgiris             Oliver      Hanlan           1993               193 gynėjas         11    3
+Lietuvos rytas       Artūras     Gudaitis         1993               208 centras         12    4
+Žalgiris             Robertas    Jatvokas         1980               211 centras          5    6
+Lietuvos rytas       Antanas     Kavaliauskas     1984               209 centras         18    3
+Žalgiris             Ian         Vougioukas       1985               211 centras         10    4
+Lietuvos rytas       Gediminas   Orelik           1990               200 puolėjas        14    5
+Lietuvos rytas       Deividas    Gailius          1988               201 gynėjas         11    2
+Žalgiris             Paulius     Jankūnas         1984               205 puolėjas        18    3
+Lietuvos rytas       Kšyštof     Lavrinovič       1979               209 centras         13    8
+Žalgiris             Brock       Motum            1990               208 puolėjas        12    2
+Žalgiris             Martynas    Pocius           1986               196 gynėjas         15    3
+Lietuvos rytas       Adas        Juškevičius      1989               194 gynėjas          6    4
+Lietuvos rytas       Ken         Brown            1989               180 gynėjas          8    4
+Žalgiris             Lukas       Lekavičius       1994               183 gynėjas          9    5
+---------------------------------------------------------------------------------------------------------
+
+Turyno lentelė
+----------------------------------------------------------------------
+ Komanda        Žaistų rungtynių skaičius   Laimėtų rungtynių skaičius
+----------------------------------------------------------------------
+Lietuvos rytas           20                            16
+Žalgiris                 20                            19
+----------------------------------------------------------------------
+
+Daugiausiai taškų pelnęs gynėjas:
+---------------------------------------------------------------------------------------------------------
+  Komanda            Vardas      Pavardė       Gimimo metai     Ūgis(cm)    Pozicija    Taškai    Klaidos
+---------------------------------------------------------------------------------------------------------
+Žalgiris             Edgaras     Ulanovas         1992               198 gynėjas         17    2
+Lietuvos rytas       Deividas    Gailius          1988               201 gynėjas         11    2
+---------------------------------------------------------------------------------------------------------
+
+Daugiausiai taškų pelnęs puolėjas:
+---------------------------------------------------------------------------------------------------------
+  Komanda            Vardas      Pavardė       Gimimo metai     Ūgis(cm)    Pozicija    Taškai    Klaidos
+---------------------------------------------------------------------------------------------------------
+Žalgiris             Paulius     Jankūnas         1984               205 puolėjas        18    3
+Lietuvos rytas       Gediminas   Orelik           1990               200 puolėjas        14    5
+---------------------------------------------------------------------------------------------------------
+
+Daugiausiai taškų pelnęs centras:
+---------------------------------------------------------------------------------------------------------
+  Komanda            Vardas      Pavardė       Gimimo metai     Ūgis(cm)    Pozicija    Taškai    Klaidos
+---------------------------------------------------------------------------------------------------------
+Žalgiris             Ian         Vougioukas       1985               211 centras         10    4
+Lietuvos rytas       Antanas     Kavaliauskas     1984               209 centras         18    3
+---------------------------------------------------------------------------------------------------------
+
+Daugiausiai klaidų padaręs gynėjas:
+---------------------------------------------------------------------------------------------------------
+  Komanda            Vardas      Pavardė       Gimimo metai     Ūgis(cm)    Pozicija    Taškai    Klaidos
+---------------------------------------------------------------------------------------------------------
+Žalgiris             Lukas       Lekavičius       1994               183 gynėjas          9    5
+Lietuvos rytas       Adas        Juškevičius      1989               194 gynėjas          6    4
+---------------------------------------------------------------------------------------------------------
+
+Daugiausiai klaidų padaręs puolėjas:
+---------------------------------------------------------------------------------------------------------
+  Komanda            Vardas      Pavardė       Gimimo metai     Ūgis(cm)    Pozicija    Taškai    Klaidos
+---------------------------------------------------------------------------------------------------------
+Žalgiris             Paulius     Jankūnas         1984               205 puolėjas        18    3
+Lietuvos rytas       Gediminas   Orelik           1990               200 puolėjas        14    5
+---------------------------------------------------------------------------------------------------------
+
+Daugiausiai klaidų padaręs centras:
+---------------------------------------------------------------------------------------------------------
+  Komanda            Vardas      Pavardė       Gimimo metai     Ūgis(cm)    Pozicija    Taškai    Klaidos
+---------------------------------------------------------------------------------------------------------
+Žalgiris             Robertas    Jatvokas         1980               211 centras          5    6
+Lietuvos rytas       Kšyštof     Lavrinovič       1979               209 centras         13    8
+---------------------------------------------------------------------------------------------------------
+
+Komanda, kurios žaidėjai pelnė daugiausiai taškų:
+Žalgiris            97 taškų/ai ir užimta 1 vieta.
+
+Rikiuotas krepšininkų sąrašas
+---------------------------------------------------------------------------------------------------------
+  Komanda            Vardas      Pavardė       Gimimo metai     Ūgis(cm)    Pozicija    Taškai    Klaidos
+---------------------------------------------------------------------------------------------------------
+Lietuvos rytas       Ken         Brown            1989               180 gynėjas          8    4
+Lietuvos rytas       Deividas    Gailius          1988               201 gynėjas         11    2
+Lietuvos rytas       Artūras     Gudaitis         1993               208 centras         12    4
+Žalgiris             Oliver      Hanlan           1993               193 gynėjas         11    3
+Žalgiris             Paulius     Jankūnas         1984               205 puolėjas        18    3
+Žalgiris             Robertas    Jatvokas         1980               211 centras          5    6
+Lietuvos rytas       Adas        Juškevičius      1989               194 gynėjas          6    4
+Lietuvos rytas       Antanas     Kavaliauskas     1984               209 centras         18    3
+Lietuvos rytas       Kšyštof     Lavrinovič       1979               209 centras         13    8
+Žalgiris             Lukas       Lekavičius       1994               183 gynėjas          9    5
+Žalgiris             Brock       Motum            1990               208 puolėjas        12    2
+Lietuvos rytas       Gediminas   Orelik           1990               200 puolėjas        14    5
+Žalgiris             Martynas    Pocius           1986               196 gynėjas         15    3
+Žalgiris             Edgaras     Ulanovas         1992               198 gynėjas         17    2
+Žalgiris             Ian         Vougioukas       1985               211 centras         10    4
+---------------------------------------------------------------------------------------------------------
+
+Sąrašas po žaidėjo pašalinimo:
+---------------------------------------------------------------------------------------------------------
+  Komanda            Vardas      Pavardė       Gimimo metai     Ūgis(cm)    Pozicija    Taškai    Klaidos
+---------------------------------------------------------------------------------------------------------
+Žalgiris             Oliver      Hanlan           1993               193 gynėjas         11    3
+Žalgiris             Paulius     Jankūnas         1984               205 puolėjas        18    3
+Žalgiris             Robertas    Jatvokas         1980               211 centras          5    6
+Žalgiris             Lukas       Lekavičius       1994               183 gynėjas          9    5
+Žalgiris             Brock       Motum            1990               208 puolėjas        12    2
+Žalgiris             Martynas    Pocius           1986               196 gynėjas         15    3
+Žalgiris             Edgaras     Ulanovas         1992               198 gynėjas         17    2
+Žalgiris             Ian         Vougioukas       1985               211 centras         10    4
+---------------------------------------------------------------------------------------------------------
+

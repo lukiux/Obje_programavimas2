@@ -1,0 +1,6 @@
+Kauno g.;
+Olanaitë; 1; 863216547;
+Zebraitë; 5; 864333555;
+Eþerauskas; 6; 864444744;
+Dainorienë; 8; 865822121;
+Kybratas; 9; 863333332;

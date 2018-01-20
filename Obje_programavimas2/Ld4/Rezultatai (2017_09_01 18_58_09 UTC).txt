@@ -1,0 +1,48 @@
+ Pradiniai duomenis
+-------------------------------------------------------
+ Pavardė    Gatvė           Namas Nr.       Tel.Nr.
+-------------------------------------------------------
+Juozaitis   Pramonės pr.        1           865489588
+Lauraitis   Pramonės pr.        3           865554771
+Naujokaitis Pramonės pr.        7           862235876
+Žukauskas   Pramonės pr.        6           863284669
+Bareikis    Pramonės pr.        8           869999842
+Kaunaitis   Savanorių g.        2           867777774
+Miskelis    Savanorių g.        3           862357416
+Plytaitis   Savanorių g.        5           863412588
+Gudaitis    Savanorių g.        6           865554277
+Varlytė     Savanorių g.        8           864444444
+Olanaitė    Kauno g.            1           863216547
+Zebraitė    Kauno g.            5           864333555
+Ežerauskas  Kauno g.            6           864444744
+Dainorienė  Kauno g.            8           865822121
+Kybratas    Kauno g.            9           863333332
+-------------------------------------------------------
+
+Abonentų sąrašas
+-------------------------------------------------------
+ Pavardė    Gatvė           Namas Nr.       Tel.Nr.
+-------------------------------------------------------
+Lauraitis   Pramonės pr.        3           865554700
+Žukauskas   Pramonės pr.        6           863111669
+Gudaitis    Savanorių g.        6           855554577
+Olanaitė    Kauno g.            1           863216500
+Ežerauskas  Kauno g.            6           864444455
+Dainorienė  Kauno g.            8           865822999
+Kybratas    Kauno g.            9           865555552
+-------------------------------------------------------
+
+Rikiuotas
+-------------------------------------------------------
+ Pavardė    Gatvė           Namas Nr.       Tel.Nr.
+-------------------------------------------------------
+Olanaitė    Kauno g.            1           863216500
+Lauraitis   Pramonės pr.        3           865554700
+Ežerauskas  Kauno g.            6           864444455
+Gudaitis    Savanorių g.        6           855554577
+Žukauskas   Pramonės pr.        6           863111669
+Dainorienė  Kauno g.            8           865822999
+Kybratas    Kauno g.            9           865555552
+-------------------------------------------------------
+
+Kauno g. gatvėje pakeista daugiausia telefonų

@@ -1,0 +1,15 @@
+Þalgiris; Lukas; Lekavièius; 1994; 183; gynëjas; 9; 5;
+Lietuvos rytas; Ken; Brown; 1989; 180; gynëjas; 8; 4;
+Lietuvos rytas; Adas; Juðkevièius; 1989; 194; gynëjas; 6; 4;
+Þalgiris; Martynas; Pocius; 1986; 196; gynëjas; 15; 3;
+Þalgiris; Brock; Motum; 1990; 208; puolëjas; 12; 2;
+Lietuvos rytas; Kðyðtof; Lavrinoviè; 1979; 209; centras; 13; 8;
+Þalgiris; Paulius; Jankûnas; 1984; 205; puolëjas; 18; 3;
+Lietuvos rytas; Deividas; Gailius; 1988; 201; gynëjas; 11; 2;
+Lietuvos rytas; Gediminas; Orelik; 1990; 200; puolëjas; 14; 5;
+Þalgiris; Ian; Vougioukas; 1985; 211; centras; 10; 4;
+Lietuvos rytas; Antanas; Kavaliauskas; 1984; 209; centras; 18; 3;
+Þalgiris; Robertas; Jatvokas; 1980; 211; centras; 5; 6;
+Lietuvos rytas; Artûras; Gudaitis; 1993; 208; centras; 12; 4;
+Þalgiris; Oliver; Hanlan; 1993; 193; gynëjas; 11; 3;
+Þalgiris; Edgaras; Ulanovas; 1992; 198; gynëjas; 17; 2;

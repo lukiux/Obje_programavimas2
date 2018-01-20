@@ -1,0 +1,6 @@
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\Ld3\Ld3\bin\Debug\Ld3.exe.config
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\Ld3\Ld3\bin\Debug\Ld3.exe
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\Ld3\Ld3\bin\Debug\Ld3.pdb
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\Ld3\Ld3\obj\Debug\Ld3.csprojResolveAssemblyReference.cache
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\Ld3\Ld3\obj\Debug\Ld3.exe
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\Ld3\Ld3\obj\Debug\Ld3.pdb

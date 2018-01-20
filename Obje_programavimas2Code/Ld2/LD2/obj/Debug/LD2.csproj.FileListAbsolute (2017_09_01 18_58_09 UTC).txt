@@ -1,0 +1,6 @@
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\LD2\LD2\bin\Debug\LD2.exe.config
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\LD2\LD2\bin\Debug\LD2.exe
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\LD2\LD2\bin\Debug\LD2.pdb
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\LD2\LD2\obj\Debug\LD2.csprojResolveAssemblyReference.cache
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\LD2\LD2\obj\Debug\LD2.exe
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\LD2\LD2\obj\Debug\LD2.pdb
